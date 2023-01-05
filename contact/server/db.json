@@ -1,0 +1,71 @@
+{
+    "contacts" : [
+        {
+            "id" : "a1",
+            "name" : "Nikhil",
+            "photo" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAB+CAMAAADV/VW6AAAAY1BMVEX///8AAADy8vLo6Og4ODglJSUoKCj5+fnl5eXh4eF1dXXu7u4uLi719fWXl5e8vLxvb2+Dg4Ojo6NSUlIcHByysrJGRkZMTExoaGhAQECLi4vW1tbKyspeXl4zMzPQ0NAPDw8IO2TrAAAC8ElEQVRoge2bC5aiMBBFkyCNqHxEUAF/+1/lyNhoO6JQLw+YOcNdgBdCUqlURaWsKUM3tP8VDD+Zaa0Po7hNdEyvcr0aQ+4XK31jM7w82+o7p4Hdh4V+YsipZ6Jc/8nCH0juhLMX+ZXLMfGD3uXlosldT4F1tuxTfj5+kN/YJn09gb9plf9m38s8SLrJK/gLIfj00V+IDdfutX/1JzbcVdDxsz/YMe2F1K51wbP7crvWvPkfI/o9yz5H7FrPSfoQ07NWv3DR1Rw5dvO6v3Yi58Qe5wvTuw5H72L6lDP3UL076UfUjzv1Jj1DP3LY+Tf1X9PbT/pJP+lB/bgx/4DZSbXOaNUuauYU2dvBE9YN+3QLHvoK++GHDtc1hEO2jd7errbtlndsCXqgsFKzJugzXJ8R9GdcfyboDRjyr0GfUt4Fqwta5ww7VteqiCl6eO4xZp5SJaovKfqRS0tqjekZQacCHH3O2CvlQWF/65H02Oizxh5cepxlV+EgelZBW2EpB8+u9nI7rZtwJZLrCUn2HSPXUzt54oYGsZF1ZZnK7Cm5kSxc+rxF/40o6eAkGj9ZXrrbLz308AX5Pnfe/RV6wbbH2+weCJqJpAbiE7vuemrz/oYnKDC5tETnTtDdrjX/ApFo1yHfHFHCdJeV5D4QlZj4txdF93YWZLkR5tpr6tf3Gi/JfWLGXHuC+1o1CVEP1Fdcnh2q6/KuDUE3Z2i35jzxhbGKDWvyQUc8rTnNDDUHjlgVe8Yh0wFLKxVr2wFYhsLzxTNpaJPzegncx6lZJfAMjKze/D4C2Fk3Att3r7jyBzjAheQmclkCUIJr7T377gmQD9ewPxF32wQcUV4jYdEeBmyiTDstccgUlLX2nrR4n4UF9lGmnVXy5gySnfqXV5yaKi+cENeNl0DY8GeTXsl/PsAZSmfs2Nx7jEDJlMH3AHiCwgGT3W0rNuIjDIeZmfSTftJP+v9RP/BmW1NfL+gttf1MXfwLesnr24irnO8XWXIyRqBqgCUAAAAASUVORK5CYII=",
+            "mobile" : "98989898989",
+            "email" : "abc@gmail.com",
+            "title" : "Software Engineer",
+            "company" : "HCL Technologies",
+            "group" : "1"
+        },
+        {
+            "id" : "b1",
+            "name" : "Sujitha",
+            "photo" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAB+CAMAAADV/VW6AAAAY1BMVEX///8AAADy8vLo6Og4ODglJSUoKCj5+fnl5eXh4eF1dXXu7u4uLi719fWXl5e8vLxvb2+Dg4Ojo6NSUlIcHByysrJGRkZMTExoaGhAQECLi4vW1tbKyspeXl4zMzPQ0NAPDw8IO2TrAAAC8ElEQVRoge2bC5aiMBBFkyCNqHxEUAF/+1/lyNhoO6JQLw+YOcNdgBdCUqlURaWsKUM3tP8VDD+Zaa0Po7hNdEyvcr0aQ+4XK31jM7w82+o7p4Hdh4V+YsipZ6Jc/8nCH0juhLMX+ZXLMfGD3uXlosldT4F1tuxTfj5+kN/YJn09gb9plf9m38s8SLrJK/gLIfj00V+IDdfutX/1JzbcVdDxsz/YMe2F1K51wbP7crvWvPkfI/o9yz5H7FrPSfoQ07NWv3DR1Rw5dvO6v3Yi58Qe5wvTuw5H72L6lDP3UL076UfUjzv1Jj1DP3LY+Tf1X9PbT/pJP+lB/bgx/4DZSbXOaNUuauYU2dvBE9YN+3QLHvoK++GHDtc1hEO2jd7errbtlndsCXqgsFKzJugzXJ8R9GdcfyboDRjyr0GfUt4Fqwta5ww7VteqiCl6eO4xZp5SJaovKfqRS0tqjekZQacCHH3O2CvlQWF/65H02Oizxh5cepxlV+EgelZBW2EpB8+u9nI7rZtwJZLrCUn2HSPXUzt54oYGsZF1ZZnK7Cm5kSxc+rxF/40o6eAkGj9ZXrrbLz308AX5Pnfe/RV6wbbH2+weCJqJpAbiE7vuemrz/oYnKDC5tETnTtDdrjX/ApFo1yHfHFHCdJeV5D4QlZj4txdF93YWZLkR5tpr6tf3Gi/JfWLGXHuC+1o1CVEP1Fdcnh2q6/KuDUE3Z2i35jzxhbGKDWvyQUc8rTnNDDUHjlgVe8Yh0wFLKxVr2wFYhsLzxTNpaJPzegncx6lZJfAMjKze/D4C2Fk3Att3r7jyBzjAheQmclkCUIJr7T377gmQD9ewPxF32wQcUV4jYdEeBmyiTDstccgUlLX2nrR4n4UF9lGmnVXy5gySnfqXV5yaKi+cENeNl0DY8GeTXsl/PsAZSmfs2Nx7jEDJlMH3AHiCwgGT3W0rNuIjDIeZmfSTftJP+v9RP/BmW1NfL+gttf1MXfwLesnr24irnO8XWXIyRqBqgCUAAAAASUVORK5CYII=",
+            "mobile" : "98989898989",
+            "email" : "abc@gmail.com",
+            "title" : "Youtuber",
+            "company" : "Youtube",
+            "group" : "2"
+        },
+        {
+            "id" : "c1",
+            "name" : "Nikhil",
+            "photo" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAB+CAMAAADV/VW6AAAAY1BMVEX///8AAADy8vLo6Og4ODglJSUoKCj5+fnl5eXh4eF1dXXu7u4uLi719fWXl5e8vLxvb2+Dg4Ojo6NSUlIcHByysrJGRkZMTExoaGhAQECLi4vW1tbKyspeXl4zMzPQ0NAPDw8IO2TrAAAC8ElEQVRoge2bC5aiMBBFkyCNqHxEUAF/+1/lyNhoO6JQLw+YOcNdgBdCUqlURaWsKUM3tP8VDD+Zaa0Po7hNdEyvcr0aQ+4XK31jM7w82+o7p4Hdh4V+YsipZ6Jc/8nCH0juhLMX+ZXLMfGD3uXlosldT4F1tuxTfj5+kN/YJn09gb9plf9m38s8SLrJK/gLIfj00V+IDdfutX/1JzbcVdDxsz/YMe2F1K51wbP7crvWvPkfI/o9yz5H7FrPSfoQ07NWv3DR1Rw5dvO6v3Yi58Qe5wvTuw5H72L6lDP3UL076UfUjzv1Jj1DP3LY+Tf1X9PbT/pJP+lB/bgx/4DZSbXOaNUuauYU2dvBE9YN+3QLHvoK++GHDtc1hEO2jd7errbtlndsCXqgsFKzJugzXJ8R9GdcfyboDRjyr0GfUt4Fqwta5ww7VteqiCl6eO4xZp5SJaovKfqRS0tqjekZQacCHH3O2CvlQWF/65H02Oizxh5cepxlV+EgelZBW2EpB8+u9nI7rZtwJZLrCUn2HSPXUzt54oYGsZF1ZZnK7Cm5kSxc+rxF/40o6eAkGj9ZXrrbLz308AX5Pnfe/RV6wbbH2+weCJqJpAbiE7vuemrz/oYnKDC5tETnTtDdrjX/ApFo1yHfHFHCdJeV5D4QlZj4txdF93YWZLkR5tpr6tf3Gi/JfWLGXHuC+1o1CVEP1Fdcnh2q6/KuDUE3Z2i35jzxhbGKDWvyQUc8rTnNDDUHjlgVe8Yh0wFLKxVr2wFYhsLzxTNpaJPzegncx6lZJfAMjKze/D4C2Fk3Att3r7jyBzjAheQmclkCUIJr7T377gmQD9ewPxF32wQcUV4jYdEeBmyiTDstccgUlLX2nrR4n4UF9lGmnVXy5gySnfqXV5yaKi+cENeNl0DY8GeTXsl/PsAZSmfs2Nx7jEDJlMH3AHiCwgGT3W0rNuIjDIeZmfSTftJP+v9RP/BmW1NfL+gttf1MXfwLesnr24irnO8XWXIyRqBqgCUAAAAASUVORK5CYII=",
+            "mobile" : "98989898989",
+            "email" : "abc@gmail.com",
+            "title" : "Freelancer",
+            "company" : "Friend",
+            "group" : "3"
+        },
+        {
+            "id" : "d1",
+            "name" : "Nikhil",
+            "photo" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAB+CAMAAADV/VW6AAAAY1BMVEX///8AAADy8vLo6Og4ODglJSUoKCj5+fnl5eXh4eF1dXXu7u4uLi719fWXl5e8vLxvb2+Dg4Ojo6NSUlIcHByysrJGRkZMTExoaGhAQECLi4vW1tbKyspeXl4zMzPQ0NAPDw8IO2TrAAAC8ElEQVRoge2bC5aiMBBFkyCNqHxEUAF/+1/lyNhoO6JQLw+YOcNdgBdCUqlURaWsKUM3tP8VDD+Zaa0Po7hNdEyvcr0aQ+4XK31jM7w82+o7p4Hdh4V+YsipZ6Jc/8nCH0juhLMX+ZXLMfGD3uXlosldT4F1tuxTfj5+kN/YJn09gb9plf9m38s8SLrJK/gLIfj00V+IDdfutX/1JzbcVdDxsz/YMe2F1K51wbP7crvWvPkfI/o9yz5H7FrPSfoQ07NWv3DR1Rw5dvO6v3Yi58Qe5wvTuw5H72L6lDP3UL076UfUjzv1Jj1DP3LY+Tf1X9PbT/pJP+lB/bgx/4DZSbXOaNUuauYU2dvBE9YN+3QLHvoK++GHDtc1hEO2jd7errbtlndsCXqgsFKzJugzXJ8R9GdcfyboDRjyr0GfUt4Fqwta5ww7VteqiCl6eO4xZp5SJaovKfqRS0tqjekZQacCHH3O2CvlQWF/65H02Oizxh5cepxlV+EgelZBW2EpB8+u9nI7rZtwJZLrCUn2HSPXUzt54oYGsZF1ZZnK7Cm5kSxc+rxF/40o6eAkGj9ZXrrbLz308AX5Pnfe/RV6wbbH2+weCJqJpAbiE7vuemrz/oYnKDC5tETnTtDdrjX/ApFo1yHfHFHCdJeV5D4QlZj4txdF93YWZLkR5tpr6tf3Gi/JfWLGXHuC+1o1CVEP1Fdcnh2q6/KuDUE3Z2i35jzxhbGKDWvyQUc8rTnNDDUHjlgVe8Yh0wFLKxVr2wFYhsLzxTNpaJPzegncx6lZJfAMjKze/D4C2Fk3Att3r7jyBzjAheQmclkCUIJr7T377gmQD9ewPxF32wQcUV4jYdEeBmyiTDstccgUlLX2nrR4n4UF9lGmnVXy5gySnfqXV5yaKi+cENeNl0DY8GeTXsl/PsAZSmfs2Nx7jEDJlMH3AHiCwgGT3W0rNuIjDIeZmfSTftJP+v9RP/BmW1NfL+gttf1MXfwLesnr24irnO8XWXIyRqBqgCUAAAAASUVORK5CYII=",
+            "mobile" : "98989898989",
+            "email" : "abc@gmail.com",
+            "title" : "Electrician",
+            "company" : "Service",
+            "group" : "4"
+        }
+    ],
+
+    "groups" : [
+        {
+            "id" : "1",
+            "name" : "Colleague"
+        },
+        {
+            "id" : "2",
+            "name" : "Friend"
+        },
+        {
+            "id" : "3",
+            "name" : "Family"
+        },
+        {
+            "id" : "4",
+            "name" : "Service"
+        },
+        {
+            "id" : "5",
+            "name" : "Community"
+        },
+        {
+            "id" : "6",
+            "name" : "Social"
+        }
+    ]
+}
